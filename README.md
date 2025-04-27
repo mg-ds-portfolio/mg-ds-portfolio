@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Mark 👋
+- Former actuary with 15 years' experience in data analysis as consultant and in-house.
+- Moving into data science (self-taught).
 
-<!--
-**mg-ds-portfolio/mg-ds-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+- Python | Pandas | NumPy | Matplotlib | Seaborn
+- SQL
+- Excel | Google Sheets
 
-Here are some ideas to get you started:
+### 🚀 Current Focus
+- Data cleansing / EDA with pandas, NumPy
+- Data viz with Matplotlib, Seaborn
+- Building Kaggle/GitHub portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Featured Projects
+-
+
+## ✨ Fun Facts
+- 
+
+## 📬 Contact Me
+- [LinkedIn] https://www.linkedin.com/in/mark-goodwin-a3b52622/
