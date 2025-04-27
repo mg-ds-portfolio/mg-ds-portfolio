@@ -15,8 +15,8 @@
 ### 📚 Featured Projects
 -
 
-## ✨ Fun Facts
+### ✨ Fun Facts
 - 
 
-## 📬 Contact Me
+### 📬 Contact Me
 - [LinkedIn] https://www.linkedin.com/in/mark-goodwin-a3b52622/
